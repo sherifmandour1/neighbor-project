@@ -1,0 +1,14 @@
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/NeighborProjectApplication.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/controllers/VehicleSearchController.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/Listing.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/ListingGrid.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/ListingRequest.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/Location.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/NormalizedVehicle.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/OptimalPackingResult.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/PackingGrid.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/SearchResponse.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/VehicleMetrics.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/models/VehicleRequest.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/services/ListingService.java
+/Users/sherifmandour/neighborProject/src/main/java/com/example/neighborproject/services/VehiclePlacementService.java
